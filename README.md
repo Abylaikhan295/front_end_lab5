@@ -30,3 +30,5 @@ Screenshot:
 
 Work Process Summary:
 In this project, I developed an interactive web interface utilizing HTML5 structures and JavaScript. I began by initializing a structured data object and executing arithmetic operations to calculate dynamic age metrics. Next, I handled form events to capture real-time user inputs and update data objects seamlessly. Finally, I applied advanced DOM manipulation methods to dynamically add and remove list items. After verifying all functionalities and ensuring error-free execution, I organized the files and published the project to GitHub.
+
+Website Page: https://abylaikhan295.github.io/front_end_lab5/
